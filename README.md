@@ -1,2 +1,2 @@
-# Projects
-some projects of mine
+# python projects
+academic project done in python
